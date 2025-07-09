@@ -1,0 +1,15 @@
+# Deep Learning & Array
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.24.4
+pillow==10.4.0
+
+# Mesh & voxel processing
+trimesh==4.6.13
+PyMCubes==0.1.2  # Nếu cần Marching Cubes để convert .obj → voxel
+
+# Image processing & utils
+scikit-image==0.21.0
+matplotlib==3.7.5
+tqdm==4.66.4
+pyyaml==6.0.1
